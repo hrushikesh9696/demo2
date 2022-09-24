@@ -1,0 +1,79 @@
+1. Discuss the prototyping model. What is the effect of
+designing a prototype on the overall cost of the
+project?
+
+PROTOTYPE MODEL -The prototyping model is a systems development method in which a prototype is built,
+ tested and then reworked as necessary until an acceptable outcome is achieved from which the complete system or product can be developed
+
+Effect of prototype on Project and overall cost
+ the effect of designing a prototype on the overall cost of a software project is to actually reduce the additional costs of restructuring 
+and reframing it after its full-fledged development- which might cost a fortune.
+
+
+
+2. Compare iterative enhancement model and
+evolutionary process model.
+
+
+
+	iterative enhancement model							evolutionary process model.
+
+	1.This model has the similar phases 
+	as the waterfall model, but with 
+	fewer restrictions. In general the 
+	phases occur in the same order as in
+	 the waterfall model but these may be
+	 conducted in several cycles. 
+	A utilizable product is released at
+	 the end of the each cycle with each 
+	release providing additional functionality.
+												1.	Evolutionary development model bear
+												 a resemblance to iterative enhancement model.
+												 The similar phases as defined for the waterfall 
+												model occur here in a cyclical fashion.
+												 This model is different from iterative enhancement model 
+												in the sense that this doesn't require a useable product
+												 at the end of each cycle. In evolutionary development 
+												requirements are implemented by category rather than by priority.
+
+
+3. As we move outward along with process flow path of
+the spiral model, what can we say about software
+that is being developed or maintained.
+As work moves outward on the spiral,
+ the product moves toward a more complete
+ state and the level of abstraction at 
+which work is performed is reduced 
+(i.e., implementation specific work accelerates
+ as we move further from the origin).
+
+
+4. Explain the Scrum Agile methodology.
+
+	Agile scrum methodology is a sprint-based project management
+ system with the goal of delivering the highest value to stakeholders.
+1.Agile and scrum are two similar project management systems with a few key differences.
+2.Agile is more flexible and promotes leadership teams, while scrum is more rigid and promotes cross-functional teams.
+3.Agile lets teams develop projects in small increments called “sprints” and allows for more effective collaborations among teams working on complex projects.
+4.This article is for business owners and project managers who want to learn more about agile scrum methodology and how to implement it as a management process.	
+
+
+Agile scrum methodology is used by companies of all sizes for its ability to provide high-end collaboration and efficiency for project-based work.
+ Agile and scrum are two different methods and can be used separately; however, their combined benefits make the agile scrum methodology
+ the most popular use of agile. Here’s the complete guide to agile scrum methodology.
+
+
+
+
+5. Explain the utility of Kanban CFD reports.
+
+The cumulative flow diagram (also known as CFD) is one of the most advanced Kanban and Agile analytics charts.
+ It provides a concise visualization of the three most important metrics of your flow:
+
+Cycle time
+Throughput
+Work in progress
+Its main purpose is to show you how stable your flow is and help you understand where you need to focus on 
+making your process more predictable. It gives you quantitative and qualitative insight into past and existing problems and can visualize massive amounts of data.
+						 			
+	
